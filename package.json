@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "node --experimental-transform-types --no-warnings typescript.ts"
+  }
+}
